@@ -1,6 +1,7 @@
 this line1..
 this line2...
 
+<<<<<<< Updated upstream
 this is manager work1..
 
 this is manager work2..
@@ -9,3 +10,10 @@ this is manager work3..
 
 
 
+=======
+this is line3..
+this line 4..
+>>>>>>> Stashed changes
+
+
+this is last line
